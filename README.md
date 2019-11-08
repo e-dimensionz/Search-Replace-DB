@@ -1,3 +1,8 @@
+## Version 3.2.1
+
+Original Project Source: https://interconnectit.com/products/search-and-replace-for-wordpress-databases/
+UPDATE: This fixes the WPML_Notices issue that causes an infinite recursion problem when running on the *wp_options* table.
+
 # Search Replace DB
 
 This script was made to aid the process of migrating PHP and MySQL based websites. It has additional features for WordPress and Drupal but works for most other similar CMSes.
